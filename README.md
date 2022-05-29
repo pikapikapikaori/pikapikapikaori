@@ -1,5 +1,7 @@
 ### ピカピカピ's profile
 
+![Git](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=cplusplus&logoColor=white)
+
 ![](https://github-readme-stats.vercel.app/api?username=pikapikapikaori)
 
 <!--
