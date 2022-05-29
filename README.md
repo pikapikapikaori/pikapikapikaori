@@ -16,7 +16,7 @@
 ![Node](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
 
 
-![](https://github-readme-stats.vercel.app/api?username=pikapikapikaori)
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=pikapikapikaori)
 
 <!--
 **pikapikapikaori/pikapikapikaori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
