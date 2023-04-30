@@ -5,7 +5,7 @@ Goal: A good full-stack engineer.
 
 ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=pikapikapikaori&show_icons=true)
 
-![github-readme-stats]([https://github-readme-stats.vercel.app/api/top-langs/?username=pikapikapikaori&langs_count=10](https://github-readme-stats.vercel.app/api/top-langs/?username=pikapikapikaori&langs_count=10&layout=compact))
+![github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pikapikapikaori&langs_count=10](https://github-readme-stats.vercel.app/api/top-langs/?username=pikapikapikaori&langs_count=10&layout=compact)
 
 <!--
 **pikapikapikaori/pikapikapikaori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
