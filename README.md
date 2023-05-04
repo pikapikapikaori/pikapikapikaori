@@ -8,6 +8,12 @@ Goal: A good full-stack engineer.
 
 ![github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pikapikapikaori&langs_count=10&layout=compact)
 
+:zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 <!--
 **pikapikapikaori/pikapikapikaori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
