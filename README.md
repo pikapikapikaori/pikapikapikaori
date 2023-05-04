@@ -2,6 +2,7 @@
 
 Goal: A good full-stack engineer.
 
+[![Blog](https://img.shields.io/badge/Blog-Main%20Site-%23c6a2eb)](https://pikapikapikaori.github.io/pikapikapi-blog/#/en-us/) [![Blog](https://img.shields.io/badge/Blog-Standby%20Site-%23c6c2eb)](https://pikapikapi-blog.vercel.app/#/en-us/) [![Blog](https://img.shields.io/badge/Blog-Sub--Site-%23d6a2eb)](https://pikapikapikaori.github.io/pikapikapi-blog-hexo/)
 
 ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=pikapikapikaori&show_icons=true)
 
