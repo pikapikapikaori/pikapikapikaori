@@ -8,8 +8,6 @@ Goal: A good full-stack engineer.
 
 ---
 
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=pikapikapikaori&show_icons=true)
-
 :zap: Recent Activity
 
 <!--START_SECTION:activity-->
@@ -19,6 +17,8 @@ Goal: A good full-stack engineer.
 4. 💪 Opened PR [#43](https://github.com/pikapikapikaori/pikapikapi-blog/pull/43) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
 5. 🎉 Merged PR [#42](https://github.com/pikapikapikaori/pikapikapi-blog/pull/42) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
 <!--END_SECTION:activity-->
+
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=pikapikapikaori&show_icons=true)
 
 <!--
 **pikapikapikaori/pikapikapikaori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
