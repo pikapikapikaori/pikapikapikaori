@@ -18,7 +18,7 @@ jobs:
       contents: write
     steps:
       - name: generate language activity
-        uses: pikapikapikaori/metrics@latest
+        uses: pikapikapikaori/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: notable_contributions.svg
