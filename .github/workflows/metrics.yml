@@ -17,6 +17,10 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: generate-metrics
+
       - name: generate language activity
         uses: pikapikapikaori/metrics@master
         with:
@@ -24,13 +28,3 @@ jobs:
           filename: notable_contributions.svg
           base: ""
           plugin_notable: yes
-          outputs: |
-            dist/notable_contributions.svg
-
-      - name: push to the generate-metrics branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: generate-metrics
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
