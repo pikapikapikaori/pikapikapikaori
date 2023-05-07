@@ -1,0 +1,36 @@
+name: Metrics
+on:
+  # Schedule daily updates
+  schedule: 
+    - cron: "0 0 * * *" 
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push:
+    branches:
+    - main
+
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: generate language activity
+        uses: pikapikapikaori/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: notable_contributions.svg
+          base: ""
+          plugin_notable: yes
+          output_action: |
+            dist/notable_contributions.svg
+
+      - name: push to the generate-metrics branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: generate-metrics
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
