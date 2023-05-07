@@ -24,7 +24,7 @@ jobs:
           filename: notable_contributions.svg
           base: ""
           plugin_notable: yes
-          output_action: |
+          outputs: |
             dist/notable_contributions.svg
 
       - name: push to the generate-metrics branch
