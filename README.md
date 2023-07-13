@@ -15,11 +15,11 @@ Goal: A good full-stack engineer.
 :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#111](https://github.com/pikapikapikaori/pikapikapi-blog/pull/111) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
-2. 🎉 Merged PR [#110](https://github.com/pikapikapikaori/pikapikapi-blog/pull/110) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
-3. 💪 Opened PR [#110](https://github.com/pikapikapikaori/pikapikapi-blog/pull/110) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
-4. 💪 Opened PR [#109](https://github.com/pikapikapikaori/pikapikapi-blog/pull/109) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
-5. ❗ Opened issue [#108](https://github.com/pikapikapikaori/pikapikapi-blog/issues/108) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
+1. 🎉 Merged PR [#112](https://github.com/pikapikapikaori/pikapikapi-blog/pull/112) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
+2. 💪 Opened PR [#112](https://github.com/pikapikapikaori/pikapikapi-blog/pull/112) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
+3. 💪 Opened PR [#111](https://github.com/pikapikapikaori/pikapikapi-blog/pull/111) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
+4. 🎉 Merged PR [#110](https://github.com/pikapikapikaori/pikapikapi-blog/pull/110) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
+5. 💪 Opened PR [#110](https://github.com/pikapikapikaori/pikapikapi-blog/pull/110) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
 <!--END_SECTION:activity-->
 
 <picture>
