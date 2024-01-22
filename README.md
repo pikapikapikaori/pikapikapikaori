@@ -15,8 +15,8 @@ Goal: A good full-stack engineer.
 :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#146](https://github.com/pikapikapikaori/pikapikapi-blog/pull/146) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
-2. 💪 Opened PR [#146](https://github.com/pikapikapikaori/pikapikapi-blog/pull/146) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
+1. 🎉 Merged PR [#148](https://github.com/pikapikapikaori/pikapikapi-blog/pull/148) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
+2. 💪 Opened PR [#148](https://github.com/pikapikapikaori/pikapikapi-blog/pull/148) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
 3. ❗ Opened issue [#145](https://github.com/pikapikapikaori/pikapikapi-blog/issues/145) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
 4. 🎉 Merged PR [#144](https://github.com/pikapikapikaori/pikapikapi-blog/pull/144) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
 5. 💪 Opened PR [#144](https://github.com/pikapikapikaori/pikapikapi-blog/pull/144) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
