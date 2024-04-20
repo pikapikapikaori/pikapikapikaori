@@ -1,6 +1,6 @@
 ### ピカピカピ's profile
 
-Goal: A good full-stack engineer.
+Dream of becoming a person who holds love of wisdom and beauty.
 
 [![Blog](https://img.shields.io/badge/Blog-Main%20Site-%23c6a2eb)](https://pikapikapikaori.github.io/pikapikapi-blog/#/en-us/) [![Blog](https://img.shields.io/badge/Blog-Standby%20Site-%23c6c2eb)](https://pikapikapi-blog.vercel.app/#/en-us/) [![Blog](https://img.shields.io/badge/Blog-Sub--Site-%23d6a2eb)](https://pikapikapikaori.github.io/pikapikapi-blog-hexo/)
 
