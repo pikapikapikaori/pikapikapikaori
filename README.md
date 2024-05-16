@@ -15,11 +15,11 @@ Dream of becoming a person who holds love of wisdom and beauty.
 :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/SWArchi-ECNU24/SWArchi-Back/pull/2) in [SWArchi-ECNU24/SWArchi-Back](https://github.com/SWArchi-ECNU24/SWArchi-Back)
-2. 💪 Opened PR [#2](https://github.com/SWArchi-ECNU24/SWArchi-Back/pull/2) in [SWArchi-ECNU24/SWArchi-Back](https://github.com/SWArchi-ECNU24/SWArchi-Back)
-3. 🎉 Merged PR [#1](https://github.com/SWArchi-ECNU24/SWArchi-Back/pull/1) in [SWArchi-ECNU24/SWArchi-Back](https://github.com/SWArchi-ECNU24/SWArchi-Back)
-4. 💪 Opened PR [#1](https://github.com/SWArchi-ECNU24/SWArchi-Back/pull/1) in [SWArchi-ECNU24/SWArchi-Back](https://github.com/SWArchi-ECNU24/SWArchi-Back)
-5. ❗ Opened issue [#235](https://github.com/pikapikapikaori/pikapikapi-blog/issues/235) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
+1. 🎉 Merged PR [#3](https://github.com/SWArchi-ECNU24/SWArchi-Back/pull/3) in [SWArchi-ECNU24/SWArchi-Back](https://github.com/SWArchi-ECNU24/SWArchi-Back)
+2. 💪 Opened PR [#3](https://github.com/SWArchi-ECNU24/SWArchi-Back/pull/3) in [SWArchi-ECNU24/SWArchi-Back](https://github.com/SWArchi-ECNU24/SWArchi-Back)
+3. 🎉 Merged PR [#2](https://github.com/SWArchi-ECNU24/SWArchi-Back/pull/2) in [SWArchi-ECNU24/SWArchi-Back](https://github.com/SWArchi-ECNU24/SWArchi-Back)
+4. 💪 Opened PR [#2](https://github.com/SWArchi-ECNU24/SWArchi-Back/pull/2) in [SWArchi-ECNU24/SWArchi-Back](https://github.com/SWArchi-ECNU24/SWArchi-Back)
+5. 🎉 Merged PR [#1](https://github.com/SWArchi-ECNU24/SWArchi-Back/pull/1) in [SWArchi-ECNU24/SWArchi-Back](https://github.com/SWArchi-ECNU24/SWArchi-Back)
 <!--END_SECTION:activity-->
 
 <picture>
