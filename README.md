@@ -15,11 +15,11 @@ Dream of becoming a person who holds love of wisdom and beauty.
 :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#240](https://github.com/pikapikapikaori/pikapikapi-blog/pull/240) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
-2. 🚀 Published release [Publish v1.2.1](https://github.com/SWArchi-ECNU24/SWArchi-Back/releases/tag/v1.2.1) in [SWArchi-ECNU24/SWArchi-Back](https://github.com/SWArchi-ECNU24/SWArchi-Back)
-3. 🎉 Merged PR [#32](https://github.com/SWArchi-ECNU24/SWArchi-Back/pull/32) in [SWArchi-ECNU24/SWArchi-Back](https://github.com/SWArchi-ECNU24/SWArchi-Back)
-4. 💪 Opened PR [#32](https://github.com/SWArchi-ECNU24/SWArchi-Back/pull/32) in [SWArchi-ECNU24/SWArchi-Back](https://github.com/SWArchi-ECNU24/SWArchi-Back)
-5. 🚀 Published release [Publish v1.2.0](https://github.com/SWArchi-ECNU24/SWArchi-Back/releases/tag/v1.2.0) in [SWArchi-ECNU24/SWArchi-Back](https://github.com/SWArchi-ECNU24/SWArchi-Back)
+1. 🎉 Merged PR [#241](https://github.com/pikapikapikaori/pikapikapi-blog/pull/241) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
+2. 💪 Opened PR [#241](https://github.com/pikapikapikaori/pikapikapi-blog/pull/241) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
+3. 🎉 Merged PR [#240](https://github.com/pikapikapikaori/pikapikapi-blog/pull/240) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
+4. 🚀 Published release [Publish v1.2.1](https://github.com/SWArchi-ECNU24/SWArchi-Back/releases/tag/v1.2.1) in [SWArchi-ECNU24/SWArchi-Back](https://github.com/SWArchi-ECNU24/SWArchi-Back)
+5. 🎉 Merged PR [#32](https://github.com/SWArchi-ECNU24/SWArchi-Back/pull/32) in [SWArchi-ECNU24/SWArchi-Back](https://github.com/SWArchi-ECNU24/SWArchi-Back)
 <!--END_SECTION:activity-->
 
 <picture>
