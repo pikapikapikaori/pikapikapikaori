@@ -13,11 +13,11 @@ Dream of becoming a person who holds love of wisdom and beauty.
 :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#269](https://github.com/pikapikapikaori/pikapikapi-blog/pull/269) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
-2. 💪 Opened PR [#269](https://github.com/pikapikapikaori/pikapikapi-blog/pull/269) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
-3. 🎉 Merged PR [#268](https://github.com/pikapikapikaori/pikapikapi-blog/pull/268) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
-4. 💪 Opened PR [#268](https://github.com/pikapikapikaori/pikapikapi-blog/pull/268) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
-5. ❗ Opened issue [#267](https://github.com/pikapikapikaori/pikapikapi-blog/issues/267) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
+1. 🎉 Merged PR [#273](https://github.com/pikapikapikaori/pikapikapi-blog/pull/273) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
+2. 💪 Opened PR [#273](https://github.com/pikapikapikaori/pikapikapi-blog/pull/273) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
+3. 🎉 Merged PR [#272](https://github.com/pikapikapikaori/pikapikapi-blog/pull/272) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
+4. 💪 Opened PR [#272](https://github.com/pikapikapikaori/pikapikapi-blog/pull/272) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
+5. 🎉 Merged PR [#271](https://github.com/pikapikapikaori/pikapikapi-blog/pull/271) in [pikapikapikaori/pikapikapi-blog](https://github.com/pikapikapikaori/pikapikapi-blog)
 <!--END_SECTION:activity-->
 
 <picture>
