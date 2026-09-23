@@ -1,6 +1,6 @@
 ### ピカピカピ's profile
 
-Dream of becoming a person who holds love of wisdom and beauty.
+Dream of becoming a person who holds love for wisdom and beauty.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=pikapikapikaori&langs_count=10&layout=compact&theme=material-palenight">
